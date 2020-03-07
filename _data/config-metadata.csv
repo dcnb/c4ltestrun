@@ -2,14 +2,20 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date-is-approximate?,Date is Approximate?,
 description,Description,
 subject,Subjects,true
-location,Location
+item_information,Item Information,true
+related_publication,Related Publication,
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier
 type,Type,
 format,Format,
+language,Language
 rights,Rights,
 rightsstatement,Rights Statement,
+
+
+title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
