@@ -2,3 +2,5 @@ field,display_name,search
 date,Date,true
 description,Description,true
 subject,Subjects,true
+latitude,Lat,
+longitude,Long,
